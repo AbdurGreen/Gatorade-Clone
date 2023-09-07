@@ -22,7 +22,7 @@ html{
 /* ------------------------------------------ */
 
 .header{
-    background-image: url("/images/nfl-bottles-p1-1x.webp");
+    background-image: url("https://www.gatorade.com/images/home/nfl-bottles-p1-1x.webp");
     background-position: center;
     background-size: cover;
     height:83.5vh;
