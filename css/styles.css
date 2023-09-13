@@ -16,8 +16,7 @@
     --g-font-4:'Chakra Petch', sans-serif;
 }
 html{
-    background-color: burlywood;
-    height:200vh;
+    background-color: white;
 }
 /* ------------------------------------------ */
 
@@ -245,7 +244,7 @@ html{
     text-transform: capitalize;
 }
 
-.new-season-2 .new-shop-btn{
+.new-season-2 .new-shop-btnn{
     font-family: var(--g-font-4);
     text-transform: uppercase;
     font-weight: 700;
